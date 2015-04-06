@@ -1,4 +1,4 @@
-# A ruby-install image for Docker
+# A ruby image for Docker
 
 Source for [coderjoe/ruby](https://registry.hub.docker.com/u/coderjoe/ruby),
 a Docker image intended to be used as the base for images which need to install
