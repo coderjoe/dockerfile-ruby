@@ -7,7 +7,7 @@ FROM coderjoe/ruby-install
 MAINTAINER Joseph Bauser <coderjoe@coderjoe.net>
 
 # Set our version to install
-ENV RUBY_VERSION 2.2.1
+ENV RUBY_VERSION 2.2.2
 
 # Install ruby
 RUN ruby-install ruby $RUBY_VERSION
